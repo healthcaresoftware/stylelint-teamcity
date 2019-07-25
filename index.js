@@ -24,7 +24,7 @@ module.exports = (allResults) => {
   allResults.forEach((result) => {
     const { warnings } = result;
 
-    if (warnings.length) {
+    if (!warnings.length) {
       return;
     }
 
