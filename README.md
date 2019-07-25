@@ -1,4 +1,6 @@
 # stylelint-teamcity
+[![npm version](https://badge.fury.io/js/%40hcsinc%2Fstylelint-teamcity.svg)](https://badge.fury.io/js/%40hcsinc%2Fstylelint-teamcity)
+
 Formats [stylelint](http://stylelint.io/) output as [inspections](https://www.jetbrains.com/help/teamcity/build-script-interaction-with-teamcity.html#BuildScriptInteractionwithTeamCity-ReportingInspections) for TeamCity.
 
 ## Example
