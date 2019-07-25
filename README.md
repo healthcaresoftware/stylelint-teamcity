@@ -9,12 +9,12 @@ Opening the Code Inspection tab for a specific build will display violations bas
 
 ## Installation
 ```sh
-npm install stylelint-teamcity --save-dev
+npm install @hcsinc/stylelint-teamcity --save-dev
 ```
 
 ## Usage
 ```sh
-stylelint <options> --custom-formatter ./node_modules/stylelint-teamcity/index.js
+stylelint <options> --custom-formatter ./node_modules/@hcsinc/stylelint-teamcity/index.js
 ```
 
 ## Acknowledgments
