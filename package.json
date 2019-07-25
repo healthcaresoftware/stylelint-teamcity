@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-teamcity",
+  "name": "@hcsinc/stylelint-teamcity",
   "version": "1.0.0",
   "description": "A stylelint formatter for TeamCity",
   "main": "index.js",
