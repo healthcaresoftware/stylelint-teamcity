@@ -1,6 +1,6 @@
 {
   "name": "@hcsinc/stylelint-teamcity",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A stylelint formatter for TeamCity",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,8 @@
     "url": "https://github.com/healthcaresoftware/stylelint-teamcity/issues"
   },
   "devDependencies": {
-    "eslint": "^5.3.0",
-    "eslint-config-airbnb-base": "^13.2.0",
-    "eslint-plugin-import": "^2.17.2"
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
   }
 }
